@@ -9470,6 +9470,6 @@ fieldset:disabled .btn {
   border: 2px solid #000;
 }
 .skills {
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
