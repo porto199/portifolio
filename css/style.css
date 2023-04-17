@@ -9473,3 +9473,7 @@ fieldset:disabled .btn {
   height: 100%;
   width: 100%;
 }
+.container-carousel {
+  margin-left: 30%;
+  margin-right: 30%;
+}
